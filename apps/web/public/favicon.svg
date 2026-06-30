@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ApplicantOS">
+  <rect width="64" height="64" rx="14" fill="#0f172a" />
+  <path
+    fill="#f8fafc"
+    d="M18 47 29.7 17h4.9L46 47h-6.1l-2.5-7.1H26.5L24 47h-6Zm10.2-12.1h7.5L32 24.2l-3.8 10.7Z"
+  />
+  <path fill="#38bdf8" d="M20 51h24v4H20z" />
+</svg>
